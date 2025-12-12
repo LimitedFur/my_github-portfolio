@@ -1,0 +1,63 @@
+{
+  "general": {
+    "first_name": "Henchelle Rae",
+    "last_name": "Omecillo",
+    "headline": "Developer seeking personal growth and experiences",
+    "about": [
+      "I enjoy exploring new technologies, building small projects, and tackling challenges that help me grow as a developer.",
+      "I'm eager to gain hands-on experience and keep learning from real-world projects."
+    ],
+    "socials": {
+      "email": "henchelleomecillo@mail.com",
+      "linkedin": "https://www.linkedin.com/in/henchelle-rae-omecillo-04046814a/",
+      "github": "https://github.com/LimitedFur/"
+    }
+  },
+  "experiences": [
+    {
+      "title": "Student Intern - Front-End Developer ",
+      "company": "University of Saint La Salle - IT Services Department",
+      "startDate": "5/2022",
+      "endDate": "6/2022",
+      "description": "Assisted in front-end development projects using HTML, CSS, and JavaScript.",
+      "logo": "/logos/vercel-white.png",
+      "skills": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "education": [
+
+    {
+      "subject": "Computer Science",
+      "degree": "Bachelor of Science",
+      "university": "University of St. La Salle - Bacolod",
+      "startDate": "2019",
+      "endDate": "2023",
+      "description": "Relevant Coursework: Data Structures and Algorithms, Mobile & Cloud Application Development"
+    }
+  ],
+  "volunteering": [
+    {
+      "position": "Certification",
+      "event": "CS50x: Introduction to Computer Science",
+      "organisation": "Harvard University (edX Online)",
+      "href": "https://certificates.cs50.io/1a2babd8-e8e1-41ea-b835-64e89cae4819.pdf?size=letter",
+      "startDate": "08,2023",
+      "endDate": "01,2024",
+      "description": "Detailed lesson for computer science fundamentals"
+    }
+  ],
+  "projects": [
+    {
+      "name": "A* Pathfinding Simulator",
+      "framework": "Unity",
+      "description": "Simulates the best route to an emergency exit in a school setting(My former university) utilizing A* algorithm to navigate between hazardous and crowded areas. Mobile friendly.",
+      "href": "https://github.com/LimitedFur/Pathfinding-Simulator"
+    },
+    {
+      "name": "Marketplace - CS50x Final Project",
+      "framework": "Flask",
+      "description": "Online e-commerce platform",
+      "href": "https://github.com/LimitedFur/CS50-Final-Project"
+    }
+  ]
+}
